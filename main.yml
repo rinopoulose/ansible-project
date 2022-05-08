@@ -1,3 +1,4 @@
 -Installing apache
 -Creating config file from template
+-Creating virtualhost from template
 - Restarting Apache
